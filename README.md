@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Muhammad Huzaifa
-- 👀 I’m interested in anything related to Python
-- 🌱 I’m currently learning Web Development with Django
+
 - 📫 Reach me at huzaifakhan771@gmail.com
 
 <!---
